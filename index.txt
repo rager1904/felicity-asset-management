@@ -1,0 +1,204 @@
+felicity - Digital investment agency
+This is a agency html made by francis banda
+
+
+
+#---------- HEADER ----------#
+
+alt = felicity logo
+
+Main Menu
+
+Home
+Why felicity
+what we offer
+Insights and education
+About us
+
+
+aria-label = open menu
+<ion-icon name="menu-outline" aria-hidden="true"></ion-icon>
+
+Sign in
+
+
+
+#---------- HERO ----------#
+
+Bringing confidence in 
+value investment 
+to the african community
+
+
+The value of your investment can go down as well as up,you may encoure a loss and get back less than you invest.Your eligibility to invest depends on your personal circumstances.
+
+Open an account
+
+alt = hero banner
+
+
+
+#---------- SERVICE ----------#
+
+Why Choose 
+Felicity.
+
+Ordinary return from benchmarks & common indexes can be a useful measure of long term performance, but there is great thinking beyond their border.Our value investment strategy seeks to unlock that untold potential. 
+
+alt = service icon
+
+Easy
+Start investing in just a few steps, with 24/7 online access from your
+computer, tablet or phone.
+
+Secure
+We keep your personal information and investment safe at all times.
+
+Straightforward
+Our wide range of funds gives you a low cost and easy way to diversify.
+
+Low Cost
+We keep our fees low so you keep more of ypur returns.
+
+
+
+#---------- ABOUT ----------#
+
+alt = about banner
+
+Bringing
+value
+to investors.
+
+We're an asset manager and one of the leading providers of investment, advisory, and risk management solutions. We're a fiduciary to our clients, and by investing on their behalf, we help millions of hardworking Africans experience freedom.
+
+More About Us
+
+
+
+#---------- PROJECT ----------#
+
+What we 
+offer.
+
+Each investor has a different story, and we are loyal partners to our
+clients because we listen to every one of them. Our wide range of funds
+is one way we're helping more investors build solid finacial futures.
+
+Show More Funds
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+alt = Junior fund
+
+Junior fund
+Invest for your child's future.Any returns are free from income tax and capital gain tax 
+
+aria-label = product details
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+General Account
+Invest without limits, this account is could be ideal if you've  already used up your pension allowance.
+
+Target Retirement fund
+Invest for your future, this account has a specific maturity period  
+
+Stocks
+Buying shares for the long term in a company and beome a shareholder
+
+Bonds
+For investors seeking stable, low risk returns
+
+
+
+#---------- BLOG ----------#
+
+Our latest
+articles.
+
+Check Our All News 
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+alt = How to control costs and keep more of your money.
+
+Grid Layout
+
+Francis Banda
+
+<ion-icon name="calendar-clear-outline" aria-hidden="true"></ion-icon>
+July 10, 2024
+
+How to control costs and keep more of your money.
+
+Read more
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+alt = Why investors should ignore election noise.
+
+Grid Layout
+
+Bright Babilas Lungu
+
+<ion-icon name="calendar-clear-outline" aria-hidden="true"></ion-icon>
+July 9, 2024
+
+Why investors should ignore election noise.
+
+Read more
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+
+
+alt = The end of stagnation for the UK and Europe.
+
+Grid Layout
+
+Flavia Mulungu
+
+<ion-icon name="calendar-clear-outline" aria-hidden="true"></ion-icon>
+July 5, 2024
+The end of stagnation for the UK and Europe.
+
+
+Read more
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>Jaxson Geldit
+
+
+
+
+#---------- FOOTER ----------#
+
+alt = Felicity logo
+
+felictityholdings@mail.com
++077 647 7267
+
+Information about use can be found on the Financial Services Register
+ 
+Links
+Company Details
+Our Newsfeed
+Service Standard
+Team Members
+Pricing Standard
+
+Legal
+Terms and Conditions
+Privacy policy
+Securty
+Cookie Policy
+Modern Slavery Act Statement
+
+
+Tips
+Important Investment Information
+Press
+Fund selection
+Help
+Report a bug
+
+
+Copyright 2024 All Rights Reserved by Felicity Asset Management, Limited.
+
+
+
+#---------- BACK TO TOP ----------#
